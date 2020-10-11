@@ -1,0 +1,16 @@
+{
+    "name": "CombinedFilterAD",
+    "references": [
+        "GUID:b1bf89ed66ac816468f46306727e916f",
+        "GUID:8a467b58de718b94383789153c4d648c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
